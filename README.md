@@ -50,6 +50,21 @@ amazon-homepage-clone/
 └── README.md
 ```
 
+---
+
+## 📸 Screenshots
+
+### Hero Section
+
+![Herosection](screenshots/hero.png)
+
+### Product Section
+
+![Product Section](screenshots/products.png)
+
+### Footer Section
+
+![Footer Section](screenshots/footer.png)
 
 ---
 

@@ -56,15 +56,25 @@ amazon-homepage-clone/
 
 ### Hero Section
 
-![Herosection](screenshots/hero.png)
+<p align="center">
+  <img src="screenshots/hero.png" width="100%">
+</p>
+
+---
 
 ### Product Section
 
-![Product Section](screenshots/products.png)
+<p align="center">
+  <img src="screenshots/products.png" width="100%">
+</p>
+
+---
 
 ### Footer Section
 
-![Footer Section](screenshots/footer.png)
+<p align="center">
+  <img src="screenshots/footer.png" width="100%">
+</p>
 
 ---
 
